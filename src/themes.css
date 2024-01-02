@@ -1,0 +1,11 @@
+:root {
+  --primary-color: #007bff;
+  --text-color: #333;
+  --light-text-color: #868686;
+  --background-color: #f4f4f4;
+  --app-background-color: #fff;
+  --border-color: #ccc;
+  --shadow-color: #0000001A;
+  --error-color: #ff0000;
+}
+ 
