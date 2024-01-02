@@ -13,7 +13,7 @@ This project is a simple currency converter that utilizes the free API from [Fre
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/lisandrozanni/currency-conversion-app.git`
-2. Navigate to the project directory: `cd currency-converter-app`
+2. Navigate to the project directory: `cd currency-conversion-app`
 3. Install dependencies: `npm install`
 
 ## Usage
