@@ -50,9 +50,7 @@ const App: React.FC = () => {
     setFromCurrency(toCurrency);
     setToCurrency(fromCurrency);
   };
-
-  console.log({error});
-
+  
   return (
     <main className="app-container">
       <header>
