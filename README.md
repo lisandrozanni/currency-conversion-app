@@ -20,3 +20,4 @@ This project is a simple currency converter that utilizes the free API from [Fre
 
 1. Start the application: `npm run dev`
 2. Open your browser and visit [http://localhost:5173](http://localhost:5173)
+c
