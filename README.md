@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Conversion App
 
 This project is a simple currency converter that utilizes the free API from [Free Currency API](https://freecurrencyapi.com/). It allows users to easily and quickly convert amounts from one currency to another.
 
